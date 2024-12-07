@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CoinApp.Views.ChangePage"
+             Title="ChangePage">
+
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <Label Text="Weapon Info" Padding="0, 20"
+                   FontSize="24" 
+                   HorizontalOptions="Center" 
+                   VerticalOptions="Start" />
+
+            <Label x:Name="fname"
+                   FontSize="20" 
+                   FontAttributes="Bold" 
+                   Padding="25"/>
+
+            <Label x:Name="date"
+               FontSize="18" 
+               FontAttributes="Bold" 
+               Padding="25"/>
+
+            <Label x:Name="description"
+               FontSize="18" 
+               FontAttributes="Bold" 
+               Padding="25"/>
+
+            <Button Margin="50,200,50,20" BackgroundColor="#ffe979" TextColor="Gray" HeightRequest="50" Text="Update" FontSize="Large" Clicked="OnClickUpdate"/>
+            <Button Margin="50,10,50,20" BackgroundColor="#ff7979" TextColor="White" HeightRequest="50" Text="Delete" FontSize="Large" Clicked="OnClickDelete"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

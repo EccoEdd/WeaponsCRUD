@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software\\MAUI\\CoinApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F596810D-4A3D-427C-96FB-0F81409BB934}|CoinApp.csproj|d:\\software\\maui\\coinapp\\services\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F596810D-4A3D-427C-96FB-0F81409BB934}|CoinApp.csproj|solutionrelative:services\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F596810D-4A3D-427C-96FB-0F81409BB934}|CoinApp.csproj|d:\\software\\maui\\coinapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F596810D-4A3D-427C-96FB-0F81409BB934}|CoinApp.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F596810D-4A3D-427C-96FB-0F81409BB934}|CoinApp.csproj|d:\\software\\maui\\coinapp\\views\\createupdate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F596810D-4A3D-427C-96FB-0F81409BB934}|CoinApp.csproj|solutionrelative:views\\createupdate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F596810D-4A3D-427C-96FB-0F81409BB934}|CoinApp.csproj|d:\\software\\maui\\coinapp\\views\\changepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F596810D-4A3D-427C-96FB-0F81409BB934}|CoinApp.csproj|solutionrelative:views\\changepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F596810D-4A3D-427C-96FB-0F81409BB934}|CoinApp.csproj|d:\\software\\maui\\coinapp\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F596810D-4A3D-427C-96FB-0F81409BB934}|CoinApp.csproj|solutionrelative:views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F596810D-4A3D-427C-96FB-0F81409BB934}|CoinApp.csproj|d:\\software\\maui\\coinapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F596810D-4A3D-427C-96FB-0F81409BB934}|CoinApp.csproj|solutionrelative:views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "D:\\Software\\MAUI\\CoinApp\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiService.cs",
+              "ToolTip": "D:\\Software\\MAUI\\CoinApp\\Services\\ApiService.cs",
+              "RelativeToolTip": "Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:08:37.333Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiConfig.cs",
+              "DocumentMoniker": "D:\\Software\\MAUI\\CoinApp\\Services\\ApiConfig.cs",
+              "RelativeDocumentMoniker": "Services\\ApiConfig.cs",
+              "ToolTip": "D:\\Software\\MAUI\\CoinApp\\Services\\ApiConfig.cs",
+              "RelativeToolTip": "Services\\ApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:10:39.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUpdate.xaml.cs",
+              "DocumentMoniker": "D:\\Software\\MAUI\\CoinApp\\Views\\CreateUpdate.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CreateUpdate.xaml.cs",
+              "ToolTip": "D:\\Software\\MAUI\\CoinApp\\Views\\CreateUpdate.xaml.cs",
+              "RelativeToolTip": "Views\\CreateUpdate.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADgvykAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:09:27.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePage.xaml.cs",
+              "DocumentMoniker": "D:\\Software\\MAUI\\CoinApp\\Views\\ChangePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ChangePage.xaml.cs",
+              "ToolTip": "D:\\Software\\MAUI\\CoinApp\\Views\\ChangePage.xaml.cs",
+              "RelativeToolTip": "Views\\ChangePage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:29:04.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\Software\\MAUI\\CoinApp\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Views\\HomePage.xaml",
+              "ToolTip": "D:\\Software\\MAUI\\CoinApp\\Views\\HomePage.xaml",
+              "RelativeToolTip": "Views\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T08:24:48.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "D:\\Software\\MAUI\\CoinApp\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\HomePage.xaml.cs",
+              "ToolTip": "D:\\Software\\MAUI\\CoinApp\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "Views\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:54:10.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

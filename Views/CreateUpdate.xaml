@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CoinApp.Views.CreateUpdate"
+             Title="CreateUpdate">
+
+    <Grid Grid.Row="1" Padding="0, 100">
+        <RoundRectangle Margin="-5,-35,-5,-2" CornerRadius="30,30,0,0" Fill="#1e1e1e"/>
+        <VerticalStackLayout Margin="30,10,30,0">
+            <Label FontSize="Title" x:Name="ActionTo" HorizontalOptions="Center" TextColor="White"/>
+    
+            <Grid Margin="0,50,0,30" ColumnDefinitions=".0*, .8*">
+                <Entry Grid.Column="1" Placeholder="Introduce: Name" FontSize="Medium" x:Name="NameEntry"/>
+            </Grid>
+            <Grid Margin="0,50,0,30" ColumnDefinitions=".0*, .8*">
+                <Entry Grid.Column="1" Placeholder="Introduce: Intended Date (XXXX-XXXX)" FontSize="Medium" x:Name="DateEntry"/>
+            </Grid>
+            <Grid Margin="0,50,0,30" ColumnDefinitions=".0*, .8*">
+                <Entry Grid.Column="1" Placeholder="Introduce: Description" FontSize="Medium" x:Name="DescriptionEntry"/>
+            </Grid>
+
+            <Button x:Name="UpdateButton" Margin="100,100,100,0" BackgroundColor="#79aeff" TextColor="White" HeightRequest="50" Text="Send..." FontSize="Large" Clicked="ActionToSend"/>
+
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>
